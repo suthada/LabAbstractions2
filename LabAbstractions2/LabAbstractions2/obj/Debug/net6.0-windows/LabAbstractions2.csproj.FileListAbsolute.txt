@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.Form1.resources
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.exe
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.deps.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.runtimeconfig.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\ref\LabAbstractions2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\bin\Debug\net6.0-windows\LabAbstractions2.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\ref\LabAbstractions2.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\LabAbstractions2\LabAbstractions2\LabAbstractions2\obj\Debug\net6.0-windows\LabAbstractions2.genruntimeconfig.cache
